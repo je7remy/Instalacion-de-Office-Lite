@@ -1,0 +1,42 @@
+# **Guía para la Instalación y Activación Correcta de Office**  
+
+## **⚠️ Instrucciones Importantes**  
+1. **Antes de iniciar**, asegúrate de estar conectado a internet.  
+2. **Ejecuta el CMD como Administrador** para evitar errores.  
+3. **Si tienes Office instalado actualmente**, desinstálalo con la herramienta oficial de Microsoft (SARA) para evitar problemas de compatibilidad.  
+4. **Utiliza los instaladores correctos** incluidos en el archivo extraíble.  
+
+---  
+
+## **🚨 Soluciones a Errores Comunes**  
+
+### **1️⃣ Error en las líneas de comando**  
+✅ Ignora los errores y sigue el proceso normalmente.  
+✅ Al finalizar, **reinicia el equipo** y verifica si Office está activado.  
+✅ Si no está activado, repite el proceso en CMD hasta que funcione.  
+
+### **2️⃣ El sistema no puede encontrar la ruta especificada**  
+✅ Es normal que aparezca este error en las primeras líneas del CMD.  
+✅ Continúa con el proceso sin preocuparte.  
+
+### **3️⃣ Error en los últimos pasos del CMD (Ejemplo: "No Office KMS licenses were found on the system")**  
+✅ Asegúrate de que el CMD se ejecuta como **Administrador**.  
+✅ Si el problema persiste, desinstala completamente Office con la herramienta SARA y repite el proceso desde cero.  
+
+### **4️⃣ Error Code: 0xC004F025 ("The action requires administrator privilege")**  
+✅ Ejecuta CMD **como Administrador**.  
+✅ Si no puedes ejecutar CMD como Administrador, revisa los permisos de usuario en la configuración de tu PC y ajústalos.  
+
+### **5️⃣ Error Code: 0xC004F017 ("The license is not installed")**  
+✅ Este error es común, simplemente **espera a que el CMD termine el proceso**.  
+✅ Una vez finalizado, **abre Word** (puede aparecer como Office 365 o 2016), ciérralo y **reinicia tu equipo**.  
+✅ Luego de reiniciar, Office 2019 debería estar funcionando correctamente.  
+
+### **6️⃣ Error Code: 0xC004F074**  
+✅ Verifica que **estás conectado a internet** y ejecutando CMD como **Administrador**.  
+✅ Si tienes una sesión abierta en Office, **cierra sesión antes de continuar** con los comandos en CMD.  
+
+---  
+
+## **✅ Última Nota Importante**  
+📌 **Después de completar todo el proceso, reinicia tu PC** para que los cambios surtan efecto.
