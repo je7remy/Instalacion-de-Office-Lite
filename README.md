@@ -1,7 +1,3 @@
-Aquí tienes el README.md para tu proyecto en `📂 C:\Users\Jeremy\Desktop\LITE.2016`. Este README está diseñado para ser claro, conciso y útil para los usuarios que visiten el repositorio en GitHub. Describe el contenido, la estructura y cómo utilizar los archivos incluidos.
-
----
-
 # **Instala fácilmente una versión lite de Office**
 
 **Descubre cómo configurar una versión lite de Office 2016 con pasos claros y soluciones a errores comunes. Ideal para quienes buscan una opción funcional y ligera. ¡Empieza a usarla sin complicaciones!**
